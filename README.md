@@ -1,6 +1,7 @@
 # 🧠 OpenCV Python Basics — Hands-On Computer Vision
-
+<p align="center">
 ![OpenCV and Python](image.png)
+</p>
 
 **OpenCV | Computer Vision | Image Processing | Face Detection | Python Portfolio Project**
 
